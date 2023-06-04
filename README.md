@@ -1,4 +1,4 @@
 # Home_Sales  
   
-[Solution in Google Colab](https://drive.google.com/file/d/1xArADefWLbCZG3-Fm0D-e6OJaqsc5Y2b/view?usp=sharing)  
+[Solution in Google Colab](https://colab.research.google.com/drive/1fRrd8OF-bZBQnr3DRTptCORIAWjs4XG4?usp=sharing)  
 [Solution for Google Colab in GitHub](Home_Sales.ipynb)  
